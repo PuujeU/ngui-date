@@ -1,0 +1,9 @@
+{
+  "name": "ngui-date",
+  "version": "1.0.0",
+  "description": "Angular simple date",
+  "scripts": {
+    "start":"http-server ."
+  },
+  "private": true
+}
