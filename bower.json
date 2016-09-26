@@ -1,10 +1,7 @@
 {
   "name": "ngui-date",
   "homepage": "https://github.com/PuujeU/ngui-date",
-  "authors": [
-  ],
   "description": "Angular simple date",
-  "main": "",
   "license": "MIT",
   "ignore": [
     "node_modules",
